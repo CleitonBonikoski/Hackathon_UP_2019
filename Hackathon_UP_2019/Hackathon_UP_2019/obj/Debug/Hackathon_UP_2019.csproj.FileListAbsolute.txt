@@ -1,0 +1,7 @@
+C:\Users\Cleiton\source\repos\Hackathon_UP_2019\Hackathon_UP_2019\bin\Debug\Hackathon_UP_2019.exe.config
+C:\Users\Cleiton\source\repos\Hackathon_UP_2019\Hackathon_UP_2019\bin\Debug\Hackathon_UP_2019.exe
+C:\Users\Cleiton\source\repos\Hackathon_UP_2019\Hackathon_UP_2019\bin\Debug\Hackathon_UP_2019.pdb
+C:\Users\Cleiton\source\repos\Hackathon_UP_2019\Hackathon_UP_2019\obj\Debug\Hackathon_UP_2019.csprojAssemblyReference.cache
+C:\Users\Cleiton\source\repos\Hackathon_UP_2019\Hackathon_UP_2019\obj\Debug\Hackathon_UP_2019.csproj.CoreCompileInputs.cache
+C:\Users\Cleiton\source\repos\Hackathon_UP_2019\Hackathon_UP_2019\obj\Debug\Hackathon_UP_2019.exe
+C:\Users\Cleiton\source\repos\Hackathon_UP_2019\Hackathon_UP_2019\obj\Debug\Hackathon_UP_2019.pdb
